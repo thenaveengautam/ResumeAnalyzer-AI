@@ -51,7 +51,7 @@ export function Layout({ children }: { children: React.ReactNode }) {
             <p className="text-dark-200 text-center text-lg">
               Made with❤️by{" "}
               <a
-                href="https://naveengautam-portfolio.netlify.app"
+                // href="https://naveengautam-portfolio.netlify.app"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-blue-600 font-semibold hover:underline"
