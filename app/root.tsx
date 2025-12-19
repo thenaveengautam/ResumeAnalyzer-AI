@@ -52,8 +52,8 @@ export function Layout({ children }: { children: React.ReactNode }) {
               Made with❤️by{" "}
               <a
                 // href="https://naveengautam-portfolio.netlify.app"
-                target="_blank"
-                rel="noopener noreferrer"
+                // target="_blank"
+                // rel="noopener noreferrer"
                 className="text-blue-600 font-semibold hover:underline"
               >
                 Naveen Gautam
