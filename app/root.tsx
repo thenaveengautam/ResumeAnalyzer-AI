@@ -48,16 +48,8 @@ export function Layout({ children }: { children: React.ReactNode }) {
         {/* Footer with homepage background style and gradient border */}
         <footer className="gradient-border mt-12 animate-in fade-in duration-1000">
           <div className="flex justify-center items-center py-6">
-            <p className="text-dark-200 text-center text-lg">
-              Made with❤️by{" "}
-              <a
-                // href="https://naveengautam-portfolio.netlify.app"
-                // target="_blank"
-                // rel="noopener noreferrer"
-                className="text-blue-600 font-semibold hover:underline"
-              >
-                Naveen Gautam
-              </a>
+            <p className="text-center text-lg text-blue-600 font-semibold">
+              Made with❤️by Naveen Gautam
             </p>
           </div>
         </footer>
