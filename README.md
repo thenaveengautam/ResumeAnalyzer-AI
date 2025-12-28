@@ -47,4 +47,6 @@ src/
 
 ## 📜 License
 
-This project is licensed under the **MIT License**.
+This project is open-source and free to use.
+
+⭐ Don’t forget to star the repository if you like it!
